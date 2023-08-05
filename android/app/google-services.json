@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449807329780",
+    "project_id": "engage-verse-f06a4",
+    "storage_bucket": "engage-verse-f06a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449807329780:android:465dd9af3ab1c0388ef1a1",
+        "android_client_info": {
+          "package_name": "com.team.vinay.engage_verse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449807329780-4j0pgjcdg1fjva10ctq385o1m6uue74a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.vinay.engage_verse",
+            "certificate_hash": "f092c89ef783644640a0021fe8910c5eefb2c187"
+          }
+        },
+        {
+          "client_id": "449807329780-vhq0uf55jf5jvmfi1oacjpn2tcv9gjpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgi3rYGPvEeW3OsE30oLrJ61zofXstHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449807329780-vhq0uf55jf5jvmfi1oacjpn2tcv9gjpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
